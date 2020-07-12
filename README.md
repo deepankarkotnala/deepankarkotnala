@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
-I love learning new technologies and make awesome products using them.
+I love learning new technologies and build awesome products using them.
 
 **Find me around the web :earth_asia:**
 
