@@ -20,7 +20,7 @@ I love learning new technologies and build awesome products using them.
 
 **Find me around the web :earth_asia:**
 
-- [Portfolio](https://portfolio-dk.herokuapp.com) :sunglasses: (Do check this out. It's cool!)
+- [Portfolio](https://portfolio-dk.herokuapp.com) : (Do check this out.)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/deepankarkotnala/) :briefcase:
 - [Covid-19 Tracker App - Flask](https://covidtracker-dk.herokuapp.com)
 - [Analytics App - Flask ](https://analytics-dk.herokuapp.com/)- House Price Prediction using Machine Learning, Covid-19 Tracker, and more!
